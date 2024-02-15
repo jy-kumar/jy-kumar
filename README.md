@@ -1,5 +1,3 @@
-### Jyoti Kumar :coffee:
-
 <!--
 **jy-kumar/jy-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Jyoti Kumar :coffee:
+|  | Skills |
+| ------------- | ------------- |
+| Language  | Java  |
+| Database  | Postgresql, Oracle, SQL  |
+| Frameworks / API | Struts, Spring MVC, Springboot, Hibernate, JPA, JDBC Template, REST |
+| Web Technology | HTML, CSS, Bootstrap, JSON, JavaScript, JQuery, Ajax |
